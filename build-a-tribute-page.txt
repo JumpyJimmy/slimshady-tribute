@@ -1,0 +1,133 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+</html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <title id="title">Eminem Tribute</title>
+  <link href="https://fonts.cdnfonts.com/css/blackletter" rel="stylesheet">
+</head>
+<body>
+  <main id="main">
+    <h1><strong>Eminem</strong> <span class="aka">a.k.a</span> <strong>Marshall Mathers</strong><span class="aka"> a.k.a</span></h1>
+    <h2 class="blackletter">Slim Shady</h2>
+    <p class="description">The best selling hip-hop artist in history</p>
+    <div id="img-div" class="img-div">
+      <img id="image" src="https://static0.thethingsimages.com/wordpress/wp-content/uploads/2020/03/D12-Rectangle-.jpg" alt="d12-photo" />
+      <figcaption id="img-caption">Eminem, front row in the middle, posing with his rap group 'D12' (an initialism for <strong>Dirty Dozen</strong>).</figcaption>
+    </div>
+    <div id="tribute-info">
+      <h3>A Timeline of Eminem's Rap Career:</h3>
+      <fieldset>
+      <ul>
+        <li><strong>1972</strong> - Born in St. Joseph, Missouri</li>
+        <li><strong>1996</strong> - Eminem and five other rappers formed The Dirty Dozen (D12). Eminem also released his debut album <em>'infinite'</em> which was a commercial failure.</li>
+        <li><strong>1999</strong> - Eminem released <em>'The Slim Shady LP'</em> in February and would end up being certified triple platinum by the end of that year. </li>
+        <li><strong>2000</strong> - <em>'The Marshall Mathers LP'</em> was released and it sold 1.76 million copies in the first week breaking US records for fastest-sellng hip hop album and for fastest-selling solo album. The album was certified Diamond in 2011.</li>
+        <li><strong>2002</strong> - <em>'The Eminem Show'</em> was released and it was another success, selling 1.33 million copies in the first week and was the best-selling album of 2002.</li>
+        <li><strong>2004</strong> - <em>'Encore'</em> was a success but did not do quite as well as his previous albums as sales were driven partially by the first single 'Just Lose It'.</li>
+        <li><strong>2007</strong> - Eminem was hospitalised after a methadone overdose. After being checked out and some unfortunate events, his drug use "ramped back up to where it was before". After seeking help from a rehabilitation counselor, he has been sober since April 2008.</li>
+        <li><strong>2009 - Comeback.</strong> Eminem released <em>'Relapse'</em>, although it did not sell as much as his previous albums, it was a success and re-established his presence in the hip hop world.</li>
+        <li><strong>2010</strong> - <em>'Recovery'</em> was released selling over 741,000 copies in the first week and topping the Billboard 200 chart. <em>'Recovery'</em> was the best selling album of 2010 making Eminem the first artist in history to have two year-end best-selling albums. <em>'Recovery'</em> is the best selling digital album in history.</li>
+        <li><strong>2013</strong> - <em>'The Marshall Mathers LP 2'</em> was released making Eminem the first American artist with seven consecutive UK number-one albums also securing his position as Canada's best selling artist and 2013's best selling album.</li>
+        <li><strong>2017</strong> - Eminem released <em>'Revival'</em> topping the US Billboard 200 chart again. However, it had mixed reviews from critics and was considered his worst album.</li>
+        <li><strong>2018</strong> - <em>'Kamikaze'</em>, his first surprise album was released in response to the backlash from his previous album. It topped the US Billboard 200 again making it his ninth album in a row to do so.</li>
+        <li><strong>2020</strong> - Eminem released another surprise album <em>'Music to Be Murdered By'</em> debuting number one at the Billboard 200 causing him to be the first artist to have ten consecutive debuting at number one in the US. A deluxe album <em>'Music to Be Murdered By - Side B'</em> also was released without any prior notice and debuted at number 3 on the Billboard 200 later that year.</li>
+        <li><strong>2022</strong> - Eminem was inducted into the Rock and Roll Hall of Fame.</li>
+      </ul>
+      <p class="quote-dre"><em>"Eminem wasn't just the underdog that broke through the glass ceiling of hip hop, he SHATTERED that shit."</em></p>
+      <p class="dre"><em>--Doctor Dre.</em></p>
+      </fieldset>
+      <h4>If you have time and are interested in reading more of this legend's life, you can read more on his <a href="https://en.wikipedia.org/wiki/Eminem" id="tribute-link" target="_blank">Wikipedia entry</a>.</h4>
+    </div>
+  </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img{
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.blackletter{
+font-family: "blackletter shadow", sans-serif;
+color: black;
+text-align: center;
+margin-top: -1em;
+font-size: 50;
+padding-top: 20;
+}
+
+h1{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.img-div img{
+  height: auto;
+}
+
+figcaption{
+  padding-top: 12px;
+  text-align: center;
+  font-size: 16;
+  font-family: sans-serif;
+}
+
+.description{
+  text-align: center;
+  padding-bottom: 20px;
+  margin-top: -1em;
+  font-family: sans-serif;
+  font-weight: 
+}
+
+h3{
+  padding-top: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 18;
+}
+
+li{
+  padding-bottom: 20px;
+}
+
+fieldset{
+  width: 60%;
+  margin: auto;
+  border: none;
+}
+
+body{
+  background: grey
+}
+
+.aka{
+  font-size: 25
+}
+
+a{
+  text-decoration: none;
+  color: #dfdfe2;
+}
+
+h4{
+  text-align: center;
+}
+
+.quote-dre{
+  padding-top: 10px;
+}
+
+** end of undefined **
+
