@@ -40,7 +40,7 @@
       <p class="quote-dre"><em>"Eminem wasn't just the underdog that broke through the glass ceiling of hip hop, he SHATTERED that shit."</em></p>
       <p class="dre"><em>--Doctor Dre.</em></p>
       </fieldset>
-      <h4>If you have time and are interested in reading more of this legend's life, you can read more on his <a href="https://en.wikipedia.org/wiki/Eminem" id="tribute-link" target="_blank">Wikipedia entry</a>.</h4>
+      <h4>If you have time and are interested in reading more of A legend's life, you can read more on his <a href="https://en.wikipedia.org/wiki/Eminem" id="tribute-link" target="_blank">Wikipedia entry</a>.</h4>
     </div>
   </main>
 </body>
